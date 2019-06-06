@@ -1,0 +1,45 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0x116)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\NightMares\NM2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\NightMares\NM2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\NightMares\NM2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\NightMares\NM2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\NightMares\NM2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\NightMares\NM2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.302 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+Platform assembly: F:\NightMares\NM2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\NightMares\NM2_Data\Managed\System.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+UnloadTime: 17.584953 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 615.
+Total: 1.266261 ms (FindLiveObjects: 0.044961 ms CreateObjectMapping: 0.027856 ms MarkObjects: 0.389994 ms  DeleteObjects: 0.016616 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+UnloadTime: 6.427095 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 615.
+Total: 1.180736 ms (FindLiveObjects: 0.049848 ms CreateObjectMapping: 0.024924 ms MarkObjects: 0.409054 ms  DeleteObjects: 0.024435 ms)
+
